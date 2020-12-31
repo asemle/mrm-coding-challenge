@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/asemle.github.io/mrm-coding-challenge/static/css/main.0c88beb4.chunk.css",
-    "main.js": "/asemle.github.io/mrm-coding-challenge/static/js/main.8cfafc9f.chunk.js",
-    "main.js.map": "/asemle.github.io/mrm-coding-challenge/static/js/main.8cfafc9f.chunk.js.map",
-    "runtime-main.js": "/asemle.github.io/mrm-coding-challenge/static/js/runtime-main.d526e722.js",
-    "runtime-main.js.map": "/asemle.github.io/mrm-coding-challenge/static/js/runtime-main.d526e722.js.map",
-    "static/js/2.7de281f8.chunk.js": "/asemle.github.io/mrm-coding-challenge/static/js/2.7de281f8.chunk.js",
-    "static/js/2.7de281f8.chunk.js.map": "/asemle.github.io/mrm-coding-challenge/static/js/2.7de281f8.chunk.js.map",
-    "static/js/3.282acf39.chunk.js": "/asemle.github.io/mrm-coding-challenge/static/js/3.282acf39.chunk.js",
-    "static/js/3.282acf39.chunk.js.map": "/asemle.github.io/mrm-coding-challenge/static/js/3.282acf39.chunk.js.map",
-    "index.html": "/asemle.github.io/mrm-coding-challenge/index.html",
-    "static/css/main.0c88beb4.chunk.css.map": "/asemle.github.io/mrm-coding-challenge/static/css/main.0c88beb4.chunk.css.map",
-    "static/js/2.7de281f8.chunk.js.LICENSE.txt": "/asemle.github.io/mrm-coding-challenge/static/js/2.7de281f8.chunk.js.LICENSE.txt"
+    "main.css": "/mrm-coding-challenge/static/css/main.0c88beb4.chunk.css",
+    "main.js": "/mrm-coding-challenge/static/js/main.8cfafc9f.chunk.js",
+    "main.js.map": "/mrm-coding-challenge/static/js/main.8cfafc9f.chunk.js.map",
+    "runtime-main.js": "/mrm-coding-challenge/static/js/runtime-main.b27dece2.js",
+    "runtime-main.js.map": "/mrm-coding-challenge/static/js/runtime-main.b27dece2.js.map",
+    "static/js/2.7de281f8.chunk.js": "/mrm-coding-challenge/static/js/2.7de281f8.chunk.js",
+    "static/js/2.7de281f8.chunk.js.map": "/mrm-coding-challenge/static/js/2.7de281f8.chunk.js.map",
+    "static/js/3.282acf39.chunk.js": "/mrm-coding-challenge/static/js/3.282acf39.chunk.js",
+    "static/js/3.282acf39.chunk.js.map": "/mrm-coding-challenge/static/js/3.282acf39.chunk.js.map",
+    "index.html": "/mrm-coding-challenge/index.html",
+    "static/css/main.0c88beb4.chunk.css.map": "/mrm-coding-challenge/static/css/main.0c88beb4.chunk.css.map",
+    "static/js/2.7de281f8.chunk.js.LICENSE.txt": "/mrm-coding-challenge/static/js/2.7de281f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d526e722.js",
+    "static/js/runtime-main.b27dece2.js",
     "static/js/2.7de281f8.chunk.js",
     "static/css/main.0c88beb4.chunk.css",
     "static/js/main.8cfafc9f.chunk.js"
